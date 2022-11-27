@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bcutil-jdk18on">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bcutil-jdk18on.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
